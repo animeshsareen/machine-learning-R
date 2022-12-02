@@ -1,11 +1,13 @@
 # Machine Learning in R: Stepwise Selection
 //
 
-Project - Using stepwise selection to predict financial outcomes. 
+**Project** - Learn about model selection using stepwise regression
 
-Setting - You’re ramping up to start a Machine Learning internship with the Synergy Group. They’re one of the biggest names in asset + lending services and have a strong financial reputation for using predictive strategies. 
+Here, we are using it to predict financial outcomes.
 
-Problem: After reading all about your recent Data Science experience at UT Austin, your manager Michael is eager to use your skills to improve the company's bottom line. 
+**Setting** - You’re ramping up to start a Machine Learning internship with the Synergy Group this summer. They’re one of the biggest names in asset + lending services, and have a strong financial reputation for maximizing predictive strategies. 
+
+**Problem** After reading all about your recent Data Science experience at UT Austin, your manager Michael is eager to use your skills to improve the company's bottom line. 
 
 Data - `credit.csv` and `new_credit.csv`
 
@@ -32,3 +34,4 @@ Other data - 'Smarket.csv'
 * `Today`: Percentage return for today
 * `Direction`: A categorical variable with levels `Down` and `Up` indicating whether the market had a positive or negative return on a given day
 
+Deliverable: a solid understanding of stepwise selection and its pros/cons.
