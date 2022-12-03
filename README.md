@@ -1,10 +1,9 @@
 # Machine Learning in R: Stepwise Selection
-//
 
-**Project** - Learn about model selection using stepwise regression
+**Project** - Using stepwise regression + model selection to predict financial outcomes 
+(i.e. expected credit balance, daily market movements, etc.)
 
-Here, we are using it to predict financial outcomes.
-
+Here, we are using stepwise selection + ML to optimize predictive modeling.
 **Setting** - You’re ramping up to start a Machine Learning internship with the Synergy Group this summer. They’re one of the biggest names in asset + lending services, and have a strong financial reputation for maximizing predictive strategies. 
 
 **Problem** After reading all about your recent Data Science experience at UT Austin, your manager Michael is eager to use your skills to improve the company's bottom line. 
