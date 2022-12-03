@@ -1,4 +1,4 @@
-# Machine Learning in R: Stepwise Selection
+# Predicting Financial Outcomes in R: Stepwise Selection
 
 ## Project ## 
 Applying stepwise regression + selection techniques to optimize predictive accuracy.
