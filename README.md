@@ -179,12 +179,14 @@ Now load the `Smarket` data in `Smarket.csv`. This dataset contains daily percen
 - `Direction`: A categorical variable with levels `Down` and `Up` indicating whether the market had a positive or negative return on a given day
 
 Try and predict market direction using stepwise selection.
+
+Why not split this data into a training/test set like we did before?
     
-    Why not split into `training/test set` like before?
+Because then, our observations were intrinsically invariant to time - 
+
+their relative position and order within the data didn’t matter to predictive interests.
     
-    Because back then, our observations were intrinsically invariant to time; their relative position and order within the data didn’t matter to predictive interests.
-    
-    Now, however, we’ve gotten a time series of information, which implies that we’ll necessarily need to evaluating every point in the historical context of its local data.
+Now, however, we’ve gotten a time series of information, which implies that we’ll necessarily need to evaluating every point in the historical context of its local data.
     
      (i.e. that’s what seasonality and trend components are doing in time series forecasting)
     
