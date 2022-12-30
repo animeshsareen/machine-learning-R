@@ -186,7 +186,7 @@ Because then, our observations were intrinsically invariant to time -
 
 their relative position and order within the data didn’t matter to predictive interests.
     
-Now, however, we’ve gotten a time series of information, which implies that we’ll necessarily need to evaluating every point in the historical context of its local data.
+Now, however, we’ve gotten a time series of information, which implies that we’ll necessarily need to evaluate each point in its unique historical location (relative to adjacent data points).
     
      (i.e. that’s what seasonality and trend components are doing in time series forecasting)
     
