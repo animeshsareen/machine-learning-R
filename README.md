@@ -1,16 +1,15 @@
 # Predicting Financial Outcomes in R: Stepwise Selection
 
-## Project ## 
 Applying stepwise regression + selection techniques to optimize predictive accuracy.
 
 Here, we are using stepwise selection + ML to optimize our financial predictions.
 
 E.g. `expected credit balance`, `daily market direction`, etc.
 ___
-## Background ## 
+## Background
 - You’re ramping up to start a Machine Learning internship with the Synergy Group this summer. They’re one of the biggest names in asset + lending services, and have a strong financial reputation for maximizing predictive success. 
 ___
-## Problem ##
+## Problem
 After reading all about your recent Data Science experience at UT Austin, your manager Michael is eager to use your skills to improve the company's bottom line. 
 ___
 Data - `credit.csv` and `new_credit.csv`
@@ -38,7 +37,7 @@ Other data - 'Smarket.csv'
 * `Today`: Percentage return for today
 * `Direction`: A categorical variable with levels `Down` and `Up` indicating whether the market had a positive or negative return on a given day
 
-## Deliverable ## 
+## Deliverable
 
 Apply stepwise selection to create accurate models and predict financial outcomes. But our model should be `reliable` in its predictions of credit card `Balance.`
 
